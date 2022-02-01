@@ -9,4 +9,4 @@ Java projekts, kurs realize metama kaulina mesanu
 - [x] Izveidot GitHub repo
 - [x] Lokalais projekts izvietots GitHub
 - [x] Papildinatais GitHub kratuves saturs ieguts lokalai lietosanai
-...
+
